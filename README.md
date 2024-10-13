@@ -25,6 +25,14 @@ Once the auth key is pasted, the setup for the email generator is done. Please l
 Simply clone this into the folder you want using: `git clone https://github.com/Anonymous-ABC-XYZ/Password-Manager.git`
 Then, run `pip -r requirements.txt`. You can then use the password manager. Enjoy!
 
+## Images
+![image](https://github.com/user-attachments/assets/0e7bb136-08bb-45cc-9722-6761681946a2)
+![image](https://github.com/user-attachments/assets/4897b30a-129b-4cc1-af68-e41c4230920e)
+![image](https://github.com/user-attachments/assets/ddc13bd2-377e-4cdb-b1ac-2a7afef09b0d)
+![image](https://github.com/user-attachments/assets/fd26ab42-d085-4fc7-a3ef-31a4d6f5766d)
+
+
+
 ## To-do
 - [ ] Shift to Electron
 
